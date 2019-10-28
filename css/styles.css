@@ -1,0 +1,14 @@
+a{
+    color: teal;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+h3{
+ padding-top: 40px;
+ color: tomato;
+}
+
+.navbar-dark .navbar-brand{
+    color: tomato;
+}
